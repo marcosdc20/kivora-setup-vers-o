@@ -1,0 +1,11 @@
+{
+  "version": "1.1.0",
+  "notes": "KIVORA ERP v1.1.0\n- Sistema de faturação em conformidade com o Decreto Presidencial n.º 71/25 e CIVA (AGT Angola)\n- Módulo de ponto de venda (POS), SAF-T (AO) e motor fiscal nativo\n- Atualizações automáticas com confirmação interativa do utilizador",
+  "pub_date": "2026-08-17T19:05:00.332Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR20vNlFkQmFSeVEweW0zRG9vWE9sQVhHSk96cElvbzNUTFk2TGZUdnljZ1ZYdnRBcW5ZSS9WT1B6USt0anVLMjAwZGxSaFVEV2FKMHRxdTdiV2c5T3ArQWVYM1ZzUFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2OTkzNDY3CWZpbGU6S0lWT1JBXzEuMS4wX3g2NC1zZXR1cC5leGUKL1JocXFZanhBQURXNi93N1RxdmM1RDB4Z1V6cHZWdkxud00wWThaekxDSVFGNGVWc3M3cC80L1VzTjdyTDVyUUhTbHRZZDZoUlVjN0lVUW1Lck1hQ3c9PQo=",
+      "url": "https://github.com/marcosdc20/kivora-setup-vers-o/releases/download/v1.1.0/KIVORA_1.1.0_x64-setup.exe"
+    }
+  }
+}
