@@ -1,11 +1,11 @@
 {
-  "version": "1.2.0",
-  "notes": "KIVORA ERP v1.2.0\n- Sistema de faturação em conformidade com o Decreto Presidencial n.º 71/25 e CIVA (AGT Angola)\n- Módulo de ponto de venda (POS), SAF-T (AO) e motor fiscal nativo\n- Atualizações automáticas com confirmação interativa do utilizador",
-  "pub_date": "2026-08-18T00:55:19.851Z",
+  "version": "1.0.0",
+  "notes": "KIVORA SOFT v1.0.0 (Versão Oficial de Certificação AGT)\n- Certificado AGT n.º FE/440/AGT/2026\n- Sistema de faturação em conformidade com o Decreto Presidencial n.º 71/25 e CIVA (AGT Angola)\n- Sincronização cirúrgica de estornos bancários vs caixa e reconciliação matemática de contas\n- Novo Extrato Bancário em tempo real e visualização de fluxos de tesouraria\n- Módulo de ponto de venda (POS), SAF-T (AO) e motor fiscal nativo\n- Atualizações automáticas seguras com confirmação interativa",
+  "pub_date": "2026-09-04T18:56:18.115Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR20vNlFkQmFSeVg3RHkwWUVvZTN4N1pkWWV5ejArNDhwaElabnpYWjhMbnMzTnRJa1FKMzRVM2hHUFVMbWt0bklpemtjZStpSlQrSHRWdW5RRU1oNzNvNDI4dGdjU1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3MDE0NDg2CWZpbGU6S0lWT1JBXzEuMi4wX3g2NC1zZXR1cC5leGUKUzc4N2JCRDdRZm5wTGR6M3NmUnV5ZzZ1QzBYWmVTczZwNEd0UmxMMGplb3ZYMkUvZmhUZDRhK0JJZXhoaStTbkRzdzE2UUp3ZnlOUzNZVlRhalF3QWc9PQo=",
-      "url": "https://github.com/marcosdc20/kivora-setup-vers-o/raw/main/KIVORA_1.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR20vNlFkQmFSeVlkWE9yUlRacC9Vd1FRQUtSTVpmMVR5ak9IOWkzZi8rTlVZOG9icGxkUnlhRnR0YnRrbFpYYmhvREp6eG91dElQYmlYMG5YOGk5SHVvNXh6RTh0Z3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTQ4MTc2CWZpbGU6S0lWT1JBIFNPRlRfMS4wLjBfeDY0LXNldHVwLmV4ZQpyNXlOZHFnd2ExekR6SWxQNE04bXJWTStTTnhNM1RMYVV5UjZtak5QZ0JRcENCaFo3MzhWQUgwQjRSU1dybUhZSkE3TTh3ZXI3azliSlZDK05FL0JCQT09Cg==",
+      "url": "https://github.com/marcosdc20/kivora-setup-vers-o/raw/main/KIVORA SOFT_1.0.0_x64-setup.exe"
     }
   }
 }

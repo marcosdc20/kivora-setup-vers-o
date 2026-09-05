@@ -1,13 +1,12 @@
-# KIVORA ERP — Repositório de Executáveis & Distribuição
+# KIVORA SOFT — Repositório de Executáveis & Distribuição
 
-Repositório público oficial de lançamentos e distribuição do software **KIVORA ERP**.
+Este repositório armazena os instaladores executáveis e o manifesto de controle de versões do **KIVORA SOFT**.
 
-## Versão Atual: `v1.2.0`
+## Versão Atual: `v1.0.0`
 
-### Ficheiros de Instalação e Atualização:
-- **Instalador Oficial:** [`KIVORA_1.2.0_x64-setup.exe`](./KIVORA_1.2.0_x64-setup.exe)
-- **Assinatura Digital (Minisign):** [`KIVORA_1.2.0_x64-setup.exe.sig`](./KIVORA_1.2.0_x64-setup.exe.sig)
+### Ficheiros Disponíveis:
+- **Instalador Oficial:** [`KIVORA SOFT_1.0.0_x64-setup.exe`](./KIVORA SOFT_1.0.0_x64-setup.exe)
 - **Manifesto de Atualizações:** [`latest.json`](./latest.json)
 
 ---
-*Compilado e assinado digitalmente com integridade criptográfica para KIVORA ERP.*
+*Gerado automaticamente pelo processo de release do KIVORA SOFT.*

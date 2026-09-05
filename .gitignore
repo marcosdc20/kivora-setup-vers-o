@@ -1,0 +1,8 @@
+# Ignorar outros binarios legados ou intermediarios
+KIVORA SOFT_1.2.*
+KIVORA_1.*
+*.exe
+!KIVORA SOFT_1.0.0_x64-setup.exe
+*.sig
+!KIVORA SOFT_1.0.0_x64-setup.exe.sig
+INSTRUCOES_INSTALACAO.md
