@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
   "notes": "KIVORA SOFT v1.0.0 (Versão Oficial de Certificação AGT)\n- Certificado AGT n.º FE/440/AGT/2026\n- Sistema de faturação em conformidade com o Decreto Presidencial n.º 71/25 e CIVA (AGT Angola)\n- Sincronização cirúrgica de estornos bancários vs caixa e reconciliação matemática de contas\n- Novo Extrato Bancário em tempo real e visualização de fluxos de tesouraria\n- Módulo de ponto de venda (POS), SAF-T (AO) e motor fiscal nativo\n- Atualizações automáticas seguras com confirmação interativa",
-  "pub_date": "2026-09-04T18:56:18.115Z",
+  "pub_date": "2026-09-05T22:14:02.891Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR20vNlFkQmFSeVlkWE9yUlRacC9Vd1FRQUtSTVpmMVR5ak9IOWkzZi8rTlVZOG9icGxkUnlhRnR0YnRrbFpYYmhvREp6eG91dElQYmlYMG5YOGk5SHVvNXh6RTh0Z3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTQ4MTc2CWZpbGU6S0lWT1JBIFNPRlRfMS4wLjBfeDY0LXNldHVwLmV4ZQpyNXlOZHFnd2ExekR6SWxQNE04bXJWTStTTnhNM1RMYVV5UjZtak5QZ0JRcENCaFo3MzhWQUgwQjRSU1dybUhZSkE3TTh3ZXI3azliSlZDK05FL0JCQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR20vNlFkQmFSeVNhN0FkMHpqL25jVCtvQUUxS1A0VElNZHVUZFl0WFJ4UW03dE9WZ1pJaVhmNlkrREcvM0JJeGh1Q1hFeUMrbmlJZXpFWlFtK1E4UExJbmtoanErWndzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NjQ2NDQyCWZpbGU6S0lWT1JBIFNPRlRfMS4wLjBfeDY0LXNldHVwLmV4ZQowZGlqSTFBR0ZsUFNpSjFxbW9Kek0rMXFYTjMwMlRKWXNUMWVxR3luVmlydWdPbmEzRUk2eEEzenlDUTFmd1BZV2I4S1pNdjNyNDRJSm9rNVNYZzRBUT09Cg==",
       "url": "https://github.com/marcosdc20/kivora-setup-vers-o/raw/main/KIVORA SOFT_1.0.0_x64-setup.exe"
     }
   }
