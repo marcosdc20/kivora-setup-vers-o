@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
   "notes": "KIVORA SOFT v1.0.0 (Versão Oficial de Certificação AGT)\n- Certificado AGT n.º FE/440/AGT/2026\n- Sistema de faturação em conformidade com o Decreto Presidencial n.º 71/25 e CIVA (AGT Angola)\n- Isenção e tributação nula obrigatória (0.00%) em Regime Simplificado e Regime de Exclusão\n- Redesign dos cards do POS com alta legibilidade de stock e identificação de serviços\n- Suporte a imagens em serviços e importação de armazéns via Excel/CSV\n- Validação universal de NIF e BI (clientes, fornecedores, funcionários) contra duplicações\n- Armazém com identificação real de produtos, 5 KPIs financeiros/operacionais, exportação Excel e ajuste rápido de stock\n- Nova Central de Relatórios Enterprise com exportação multi-formato (PDF Executivo, Excel, CSV, Impressão)\n- Relatório especializado de Auditoria por Atendente / Vendedor / Operador de Caixa com quebras/sobras\n- Relatório de Rentabilidade, Margens Brutas e Curva ABC de Produtos (Pareto)\n- Relatório de Antiguidade de Saldos / Aging de Clientes em 5 escalões temporais\n- Sincronização cirúrgica de estornos bancários vs caixa e reconciliação matemática de contas\n- Módulo de ponto de venda (POS), SAF-T (AO) e motor fiscal nativo",
-  "pub_date": "2026-09-09T13:57:29.337Z",
+  "pub_date": "2026-09-09T16:36:42.167Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR20vNlFkQmFSeVhXbFEvYTNpNDBGdUNQSlB3a0VTVzBTTm9LcXkxM0Juc052Y2Fqa1N3M3FqcDZ5WGRRTE8zeWJoNWxqYUNYeEZaOG1waEV1R2lnSTM2cUhiMVRJMmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTYyMjQ4CWZpbGU6S0lWT1JBIFNPRlRfMS4wLjBfeDY0LXNldHVwLmV4ZQpLK3VXNklidmF4S2x5S2RkaFZpWVZUMms0dkxvTTJOd28yS2VIME8yTVJYRm1VdzIxc2hiVFV3Tmo1b2JwRkM2akFVcERRSlMxVXJTcERFZEkwd0REdz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR20vNlFkQmFSeWJYVDhIaWs0czZRL1BlOG42UEthbWJxdzhtVDliWkxMTURGSktTZHRxcERXNWp3M0ZQYzlXNmlzUlVPZCsvd09Sb3Z2WWJzTnh1UTNBcmtXUlcyQWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4OTcxODAxCWZpbGU6S0lWT1JBIFNPRlRfMS4wLjBfeDY0LXNldHVwLmV4ZQpVQnNkRzZITTlieGRNVWRodlppekozTDhXYllYNnlQL01qNjl3aTF3L3FPbFJWRC9LWXJTNGhQTHpIcmJVS0pqUWQydDlucUxvUjZORk8vTnRYVExBQT09Cg==",
       "url": "https://github.com/marcosdc20/kivora-setup-vers-o/raw/main/KIVORA SOFT_1.0.0_x64-setup.exe"
     }
   }
