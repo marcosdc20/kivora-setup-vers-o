@@ -1,8 +1,18 @@
 # Ignorar outros binarios legados ou intermediarios
 KIVORA SOFT_1.2.*
 KIVORA_1.*
+
+# Regras de executaveis e instaladores Windows
 *.exe
 !KIVORA SOFT_1.0.0_x64-setup.exe
+
+# Executáveis macOS (.dmg universal de ~33MB é suportado nativamente no GitHub <100MB)
+*.dmg
+!KIVORA SOFT_1.0.0_universal.dmg
+
+# Regras de assinaturas digitais
 *.sig
 !KIVORA SOFT_1.0.0_x64-setup.exe.sig
-INSTRUCOES_INSTALACAO.md
+!KIVORA SOFT_1.0.0_Offline_x64-setup.exe.sig
+!KIVORA SOFT_1.0.0_universal.dmg.sig
+
