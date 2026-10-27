@@ -1,23 +1,11 @@
 {
   "version": "1.0.0",
   "notes": "KIVORA SOFT v1.0.0 (Versão Oficial de Certificação AGT)\n- Certificado AGT n.º FE/387/AGT/2026\n- Sistema de faturação em conformidade com o Decreto Presidencial n.º 71/25 e CIVA (AGT Angola)\n- Isenção e tributação nula obrigatória (0.00%) em Regime Simplificado e Regime de Exclusão\n- Redesign dos cards do POS com alta legibilidade de stock e identificação de serviços\n- Suporte a imagens em serviços e importação de armazéns via Excel/CSV\n- Validação universal de NIF e BI (clientes, fornecedores, funcionários) contra duplicações\n- Armazém com identificação real de produtos, 5 KPIs financeiros/operacionais, exportação Excel e ajuste rápido de stock\n- Nova Central de Relatórios Enterprise com exportação multi-formato (PDF Executivo, Excel, CSV, Impressão)\n- Relatório especializado de Auditoria por Atendente / Vendedor / Operador de Caixa com quebras/sobras\n- Relatório de Rentabilidade, Margens Brutas e Curva ABC de Produtos (Pareto)\n- Relatório de Antiguidade de Saldos / Aging de Clientes em 5 escalões temporais\n- Sincronização cirúrgica de estornos bancários vs caixa e reconciliação matemática de contas\n- Módulo de ponto de venda (POS), SAF-T (AO) e motor fiscal nativo",
-  "pub_date": "2026-10-24T16:44:44.238Z",
+  "pub_date": "2026-10-27T11:38:00.319Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR20vNlFkQmFSeWJMWXJLY1pMUVAzNnZWQThrQ0hsN3Q4TWRtUnAzWUVncDFHM3NjNHI1UmZ0ZDVEd1hRQjIyTWlYOU9rekZHRW1GV0ZEbEhNeEdnZndDUzYxK3hrY2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODYwMjgzCWZpbGU6S0lWT1JBIFNPRlRfMS4wLjBfeDY0LXNldHVwLmV4ZQpiUFdYS3loQ1ZRbDVMeHB2ZGNPQUhMeUV2ZHBWdDA0Q0hneEV6cmFhbzZJc2dpL2NDNW9jaHNVd3dxd0FiTElwdEJ4SzdrUmwweitvTVFpTXROQVpCUT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR20vNlFkQmFSeVg4Wm1tOUNaOWp1eEZZTmwwWXRZSDU1SnBHdjRvVk1GaitmeHc5TFBBQklTdUtRZmh2OGs5RE5yeXRVTGpWd3VrSExjS0Y4ekZrMHV6L3B6enhNb2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTAxMDc5CWZpbGU6S0lWT1JBIFNPRlRfMS4wLjBfeDY0LXNldHVwLmV4ZQpwWTMwb0piSFZKNnYzTCtYY2dFT2w1OFpFS21SK21weVJRMmlKdVMxQUFCRjg0MXhScUx6MEIwamI3eXRBNGJINGRJZ2RGMWptT0N5Ti9jMDNZR0JBUT09Cg==",
       "url": "https://github.com/marcosdc20/kivora-setup-vers-o/raw/main/KIVORA SOFT_1.0.0_x64-setup.exe"
-    },
-    "darwin-universal": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR20vNlFkQmFSeVJSeG80V09XSWttNHZxVVdqUjZlcTVneUg4UnBHamd4VEIvN21VTG5vUHFhRDlIek8vSlpqZjBJNUhNd0R0RlM1TWg1MVZhS1NtcWQvQ3dwUTRRNWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODYyOTk0CWZpbGU6S0lWT1JBIFNPRlRfMS4wLjBfdW5pdmVyc2FsLmRtZwo2QzQ2ODhMeDVUM0xhM3UwYXJmRjc1V216SDJPRFloTHpNRXN3ZlVDbGN0cHhrWnFaTi9mRnJwcjlqMkx1cm5UT3huNnd6VDdYOFJDUysxbjdvN1RBZz09Cg==",
-      "url": "https://github.com/marcosdc20/kivora-setup-vers-o/raw/main/KIVORA SOFT_1.0.0_universal.dmg"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR20vNlFkQmFSeVJSeG80V09XSWttNHZxVVdqUjZlcTVneUg4UnBHamd4VEIvN21VTG5vUHFhRDlIek8vSlpqZjBJNUhNd0R0RlM1TWg1MVZhS1NtcWQvQ3dwUTRRNWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODYyOTk0CWZpbGU6S0lWT1JBIFNPRlRfMS4wLjBfdW5pdmVyc2FsLmRtZwo2QzQ2ODhMeDVUM0xhM3UwYXJmRjc1V216SDJPRFloTHpNRXN3ZlVDbGN0cHhrWnFaTi9mRnJwcjlqMkx1cm5UT3huNnd6VDdYOFJDUysxbjdvN1RBZz09Cg==",
-      "url": "https://github.com/marcosdc20/kivora-setup-vers-o/raw/main/KIVORA SOFT_1.0.0_universal.dmg"
-    },
-    "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTR20vNlFkQmFSeVJSeG80V09XSWttNHZxVVdqUjZlcTVneUg4UnBHamd4VEIvN21VTG5vUHFhRDlIek8vSlpqZjBJNUhNd0R0RlM1TWg1MVZhS1NtcWQvQ3dwUTRRNWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODYyOTk0CWZpbGU6S0lWT1JBIFNPRlRfMS4wLjBfdW5pdmVyc2FsLmRtZwo2QzQ2ODhMeDVUM0xhM3UwYXJmRjc1V216SDJPRFloTHpNRXN3ZlVDbGN0cHhrWnFaTi9mRnJwcjlqMkx1cm5UT3huNnd6VDdYOFJDUysxbjdvN1RBZz09Cg==",
-      "url": "https://github.com/marcosdc20/kivora-setup-vers-o/raw/main/KIVORA SOFT_1.0.0_universal.dmg"
     }
   }
 }
