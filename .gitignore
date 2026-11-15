@@ -9,10 +9,16 @@ KIVORA_1.*
 # Executáveis macOS (.dmg universal de ~33MB é suportado nativamente no GitHub <100MB)
 *.dmg
 !KIVORA SOFT_1.0.0_universal.dmg
+!KIVORA.SOFT_1.0.0_universal.dmg
+!KIVORA_SOFT_1.0.0_macOS_Universal.dmg
 
 # Regras de assinaturas digitais
 *.sig
 !KIVORA SOFT_1.0.0_x64-setup.exe.sig
+!KIVORA.SOFT_1.0.0_x64-setup.exe.sig
 !KIVORA SOFT_1.0.0_Offline_x64-setup.exe.sig
+!KIVORA.SOFT_1.0.0_Offline_x64-setup.exe.sig
 !KIVORA SOFT_1.0.0_universal.dmg.sig
+!KIVORA.SOFT_1.0.0_universal.dmg.sig
+!KIVORA_SOFT_1.0.0_macOS_Universal.dmg.sig
 
